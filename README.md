@@ -1,5 +1,3 @@
-# USA_Housing_Project
-![Alt Text]([https://ideogram.ai/api/images/direct/40fI0T8NSsiQIgQ3OPYqkQ.jpg)https://ideogram.ai/api/images/direct/40fI0T8NSsiQIgQ3OPYqkQ.jpg](https://github.com/Muhammadzainattiq/USA_Housing_Project/blob/b318d53d9b6ccb66179698086e3cc90b665b24e1/USA_street_with_many_beautiful_houses.jpg))
 # USA Housing Dataset Exploration and Linear Regression Modeling
 
 ## Overview
