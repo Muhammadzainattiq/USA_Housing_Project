@@ -1,5 +1,5 @@
 # USA_Housing_Project
-![Alt Text]([image_url](https://ideogram.ai/api/images/direct/40fI0T8NSsiQIgQ3OPYqkQ.jpg)https://ideogram.ai/api/images/direct/40fI0T8NSsiQIgQ3OPYqkQ.jpg)
+![Alt Text][image_url](https://ideogram.ai/api/images/direct/40fI0T8NSsiQIgQ3OPYqkQ.jpg)https://ideogram.ai/api/images/direct/40fI0T8NSsiQIgQ3OPYqkQ.jpg)
 # USA Housing Dataset Exploration and Linear Regression Modeling
 
 ## Overview
